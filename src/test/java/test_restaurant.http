@@ -1,0 +1,7 @@
+POST http://localhost:8080/restaurante
+Content-Type: application/json
+
+{"name": "Daniel2", "telefono": "1234", "direccion": "asd"}
+
+###
+POST
